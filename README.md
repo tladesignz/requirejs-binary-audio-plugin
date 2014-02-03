@@ -16,7 +16,7 @@ I hacked this together for a short test.
     require(
         [
             'bin!foo',
-            'mp3!bar
+            'mp3!bar'
         ],
         function( foo, bar )
         {
