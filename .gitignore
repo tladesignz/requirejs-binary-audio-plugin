@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+atlassian-ide-plugin.xml
+
+# Mac
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
