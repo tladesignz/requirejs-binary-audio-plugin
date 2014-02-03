@@ -4,6 +4,8 @@ I hacked this together for a short test.
 
 ## Usage:
 
+```javascript
+
     require.config( {
         paths: {
             bin: '/lib/requirejs-binary-audio-plugin/bin',
@@ -31,6 +33,7 @@ I hacked this together for a short test.
             source.start( 0 );
         }
     );
+```
 
 ## See
 
